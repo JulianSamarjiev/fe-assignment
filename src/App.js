@@ -3,7 +3,7 @@ import Header from './Header';
 import OrderInformation from './OrderInformation';
 import OrderStatus from './OrderStatus';
 import OrderItems from './OrderItems';
-import data from './data.json'
+import data from './data.json';
 
 class App extends Component {
 
