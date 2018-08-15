@@ -10,12 +10,13 @@
   min-height: 30px;
   min-width: 30px;
   border: 3px solid #F8B930;
+  cursor: pointer;
 }
 
 .OrderItem-select.selected {
   background-color: #F8B930;
   background-image: url(./check-symbol.svg);
-  background-size: 25px;
+  background-size: 20px;
   background-repeat: no-repeat;
   background-position: 50%;
 }
