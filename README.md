@@ -22,3 +22,4 @@ You will also see any lint errors in the console.
 3. The viewport width used for testing the layout was 300px, conservative space on purpose to add constraints to the development of the UI and simulate a mobile experience.
 4. Static JSON data set was used from `data.json` (included in the root component `App` and passed down as props). *Some data may be displayed in the wrong places of the app, given a lack of general context of the overarching functionality. e.g Who's the assignee, who's placing the order, timestamps, order IDs etc.
 5. Following up from the previous point, some naming conventions may also be inappropriate (is it an actual order, or a reservation etc.), due to the same reasons.
+6. Credit to [Flaticon](http://localhost:3000) for all the icons <3
