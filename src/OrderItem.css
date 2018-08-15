@@ -1,0 +1,31 @@
+.OrderItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #dddddd;
+  padding: 20px 0;
+}
+
+.OrderItem-select {
+  min-height: 30px;
+  min-width: 30px;
+  border: 3px solid #F8B930;
+}
+
+.OrderItem-select.selected {
+  background-color: #F8B930;
+  background-image: url(./check-symbol.svg);
+  background-size: 25px;
+  background-repeat: no-repeat;
+  background-position: 50%;
+}
+
+.OrderItem-product-name {
+  letter-spacing: 1px;
+  font-weight: 900;
+  text-transform: uppercase;
+}
+
+.OrderItem-arrow-right {
+  height: 15px;
+}

@@ -1,0 +1,36 @@
+.Header {
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #dddddd;
+}
+
+.Header-arrow-left {
+  height: 15px;
+  margin-left: 10px;
+}
+
+.Header-print-wrapper {
+  padding: 10px;
+  background-color: #737373;
+  margin-right: 10px;
+}
+
+.Header-print {
+  height: 20px;
+}
+
+.Header-client {
+  text-align: center;
+}
+
+.Header-client-name {
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.Header-client-number {
+  font-size: 12px;
+  color: #a4a4a4;
+}

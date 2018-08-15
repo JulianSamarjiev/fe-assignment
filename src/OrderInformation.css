@@ -1,0 +1,11 @@
+.OrderInformation {
+  padding: 20px 10px;
+}
+
+.OrderInformation-title {
+  font-weight: 900;
+}
+
+.OrderInformation-details {
+  color: #737373;
+}

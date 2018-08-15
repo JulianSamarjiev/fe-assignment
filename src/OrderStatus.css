@@ -1,0 +1,22 @@
+.OrderStatus {
+  padding: 20px 10px;
+  background-color: #EEEEEE;
+  display: flex;
+  justify-content: space-between;
+}
+
+.OrderStatus-title {
+  font-weight: 900;
+}
+
+.OrderStatus-circle {
+  height: 8px;
+}
+
+.OrderStatus-name {
+  font-weight: 400;
+}
+
+.OrderStatus-date {
+  color: #737373;
+}
